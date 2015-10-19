@@ -5,8 +5,8 @@
 }
 .container {
 	margin: 0 auto; 
-	padding: 0 10px;
-    background: url("http://img04.tooopen.com/images/20131122/sy_48397557448.jpg") no-repeat;
+	padding: 10px 10px;
+    background: url("http://img04.tooopen.com/images/20131122/sy_48397557448.jpg") cover;
 }
 
 .nav a {
